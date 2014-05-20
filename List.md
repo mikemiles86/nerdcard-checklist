@@ -6,6 +6,9 @@
 * Indiana Jones
 * Star Wars
 * Any Monty Python
+* Weird Science
+* Blade Runner
+* The Matrix
 
 ## T.V.
 * Any Star Trek
