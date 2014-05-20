@@ -34,6 +34,7 @@
 * submitted a Pull Request to a git repository
 * Had an argument on Reddit
 * Regularly read [XKCD](http://xkcd.com)
+* Create repository on Github that has a list of items that are required in order to earn your nerd card
 
 ## Other Activities
 * Own, have owned or spent hours playing with Legos
