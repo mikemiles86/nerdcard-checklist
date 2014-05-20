@@ -1,7 +1,7 @@
 
 # About
 
-The following (List.md)[Checklist] is composed of "nerdy" items that one has watched, read or enjoyed doing.
+The following [List.md](Checklist) is composed of "nerdy" items that one has watched, read or enjoyed doing.
 
 ## Gaining your "Nerd Card"
 
