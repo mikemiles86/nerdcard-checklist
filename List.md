@@ -18,6 +18,10 @@
 
 ## Books
 * Enders Game
+* The Foundation Series
+* Dune
+* Snow Crash
+* American Gods
 
 ## Games
 * Dungeons & Dragons
@@ -29,6 +33,7 @@
 
 ## Technology
 * Built your own computer
+* Organized a LAN party
 
 ## The Internet
 * submitted a Pull Request to a git repository
@@ -37,3 +42,4 @@
 
 ## Other Activities
 * Own, have owned or spent hours playing with Legos
+* Own an awesome collection of action figures. 
