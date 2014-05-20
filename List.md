@@ -14,6 +14,6 @@
 ## The Internet
 * submitted a Pull Request to a git repository
 * Had an argument on Reddit
-* Regularly read [http://xkcd.com](XKCD)
+* Regularly read [XKCD](http://xkcd.com)
 
 ## Other Activities
