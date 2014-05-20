@@ -25,6 +25,7 @@
 * Dominion
 * Magic
 * Waited in line for a midnight release of a videogame
+* Explored more of the Minecraft world then the actual world.
 
 ## Technology
 * Built your own computer
@@ -35,3 +36,4 @@
 * Regularly read [XKCD](http://xkcd.com)
 
 ## Other Activities
+* Own, have owned or spent hours playing with Legos
