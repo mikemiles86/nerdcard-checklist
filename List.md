@@ -4,7 +4,7 @@
 ## Movies
 * Back to the Future
 * Indiana Jones
-* Star Wars
+* Star Wars Trilogy
 * Any Monty Python
 * Weird Science
 * Blade Runner
