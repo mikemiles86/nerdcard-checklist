@@ -10,3 +10,4 @@
 
 ## Activities
 * Built your own computer
+* submitted a Pull Request to a git repository
